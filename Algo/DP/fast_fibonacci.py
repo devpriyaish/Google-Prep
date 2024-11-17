@@ -85,3 +85,7 @@ start_time = time.time()
 ffib = ff.fast_fibonacci(n)
 end_time = time.time()
 print(f"Fibonacci({n}) with memoization: {ffib} (Time taken: {end_time - start_time:.4f} seconds)")
+
+# Expected Output:
+# Fibonacci(36) without memoization: 14930352 (Time taken: 9.8407 seconds)
+# Fibonacci(36) with memoization: 14930352 (Time taken: 0.0000 seconds)
