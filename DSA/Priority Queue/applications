@@ -1,0 +1,17 @@
+Applications:
+1. Used in implementing Dijkstra's Shortest Path Algo
+2. Dynamically fetch nextbest/nextworse
+3. Huffman Coding
+4. Best First Search
+5. Minimum Spanning Tree
+
+PQ with Binary Heap
+1. Binary heap construction   O(n)
+2. Polling                    O(log(n))
+3. Peeking                    O(1)
+4. Adding                     O(log(n))
+5. Native Removing            O(n)
+6. Hashtable Removing         O(log(n))
+7. Native Contains            O(n)
+8. Contains check (hash)      O(1)
+Pros of hash: linear space + constants due to use of swaps
