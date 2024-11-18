@@ -1,0 +1,6 @@
+1. Sorting & accessing sequential data
+2. Temporarily storing objects
+3. Used by IO routines as buffers
+4. Lookup tables & inverse lookup tables
+5. Returning multiple values from function
+6. Used in dynamic programming to cache answers to subproblems
