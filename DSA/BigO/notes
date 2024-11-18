@@ -1,0 +1,4 @@
+Find all subsets of a set -> 2^n
+Find all permutation of a string -> n!
+Sorting using merge sort -> nlogn
+Iterating over n by m matrix -> m*n
